@@ -112,8 +112,13 @@ Cursor                   19 hrs 18 mins      ███████████�
 Mac                      19 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
- Last Updated on 26/12/2025 00:46:39 UTC
+ 
 <!--END_SECTION:waka-->
 
 </td></tr>
